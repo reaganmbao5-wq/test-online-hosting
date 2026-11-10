@@ -1,0 +1,5 @@
+media/*
+!media/.gitkeep
+renders/*
+!renders/.gitkeep
+.DS_Store
